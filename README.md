@@ -1,0 +1,1 @@
+# FastAPI project for predicting the text inside the  documents. 
